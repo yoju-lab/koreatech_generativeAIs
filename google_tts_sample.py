@@ -41,5 +41,5 @@ def synthesize_text(text):
 if __name__ == "__main__":
     input_text = "Hello, world"
     input_text = 'Special education for training teachers/instructors in the field of continuing education (first round in 2024)'
-    # input_text = "훈련 교/강사 보수교육 전공분야 특별교육 (2024년 1차)"
+    input_text = "훈련 교/강사 보수교육 전공분야 특별교육 (2024년 1차)"
     synthesize_text(input_text)

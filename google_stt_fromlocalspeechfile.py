@@ -35,6 +35,6 @@ def run_quickstart(file_path) -> speech.RecognizeResponse:
 
 if __name__ == "__main__":    
     # 대상 음성 파일 경로
-    file_path = "./korea_voice.m4a"    
+    file_path = "output.mp3"    
     run_quickstart(file_path)
     pass
