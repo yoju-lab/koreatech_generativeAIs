@@ -5,6 +5,4 @@
 
 * infor etc
   - https://status.openai.com/uptime
-
-* from
-  - openAI_API_inGoogleSheets
+  - [own - openAI_API_inGoogleSheets](https://docs.google.com/spreadsheets/d/1Ao94ZFBHxB7wp9MphH_yNDVBpIm6M19VUg4Cm6wMmCI/edit#gid=294812955)
