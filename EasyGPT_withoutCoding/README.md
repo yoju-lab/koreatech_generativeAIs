@@ -1,4 +1,5 @@
 # (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
+### from : https://github.com/JSJeong-me/EasyGPT-2024
 
 ### [강의교안](https://drive.google.com/file/d/1yJlTq-R23jCW7VMfJbxTCae8oEX03Rwx/view?usp=sharing)
 ### [WorkSheet](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit?usp=sharing)
